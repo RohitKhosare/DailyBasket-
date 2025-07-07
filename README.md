@@ -21,16 +21,16 @@
 ## 📁 Folder Structure
 
 DailyBasket/
-│
-├── public/
-├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── pages/
-│ ├── App.jsx
-│ └── main.jsx
-├── index.html
-└── tailwind.config.js
+- │
+- ├── public/
+- ├── src/
+- │ ├── assets/
+- │ ├── components/
+- │ ├── pages/
+- │ ├── App.jsx
+- │ └── main.jsx
+- ├── index.html
+- └── tailwind.config.js
 
 🌐 Live Demo
 
